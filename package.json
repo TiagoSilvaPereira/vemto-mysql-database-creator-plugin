@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "id": "app.vemto.mysql-database-creator",
+    "name": "mysql-database-creator",
+    "title": "MySQL Database Creator",
+    "description": "MySQL Database Creator",
+    "image": "",
+    "main": "src/main.js",
+    "vueComponent": "dist/mysql-database-creator.umd.min.js"
+}
